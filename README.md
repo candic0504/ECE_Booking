@@ -47,8 +47,6 @@ La base de données contient des tables pour :
 1. Clonez le projet depuis GitHub :
 
 ```
-bash
-Copier le code
 git clone https://github.com/candic0504/ECE_Booking.git
 
 ```
